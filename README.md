@@ -13,6 +13,7 @@ Data Science Salary Estimator: Project Overview
 * Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium
 * Scraper Github: https://github.com/arapfaik/scraping-glassdoor-selenium
 * Scraper Article: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+* Chromedriver 86.0.4240.22 - ChromeDriver is a separate executable that Selenium WebDriver uses to control Chrome.(To view the scraped data in chrome)
 
 
 # Web Scraping
