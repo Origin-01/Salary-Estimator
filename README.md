@@ -59,6 +59,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. The EDA also consists of a word cloud as the data contains description of the job profile. 
 
 ![](png1.png) 
+![](png2.png)
 # Model Building
 
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 30%.
