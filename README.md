@@ -1,5 +1,5 @@
 # Salary-Estimator
-Created a tool that estimates data science salaries to help data scientists negotiate their income when they get a job.
+Created a tool that estimates the expected salaries of various companies to help data scientists to negotiate their income when they are applying for a job.
 
 Data Science Salary Estimator: Project Overview
 
